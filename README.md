@@ -44,11 +44,17 @@ The generated password is then displayed for use.
 
 ## Links
 
+Repository:
+https://github.com/Vithursan6/password-gen
+
+Deployed Site:
+https://vithursan6.github.io/password-gen/
+
 
 
 ## Screenshot
 
-![screenshot](https://github.com/)
+![screenshot](https://vithursan6.github.io/password-gen/screenshot.png)
 
 
 
