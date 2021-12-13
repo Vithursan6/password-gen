@@ -34,6 +34,8 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
+```
+
 ## Description
 
 Password generator uses a userInput() function to intake the parameters for password to be generated.
@@ -61,8 +63,9 @@ https://vithursan6.github.io/password-gen/
 
 
 
-##LICENSE
-# MIT License
+## LICENSE
+
+MIT License
 
 Copyright (c) 2021 Vithursan Muthulingam
 
